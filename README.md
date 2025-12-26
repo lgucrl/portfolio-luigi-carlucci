@@ -1,5 +1,12 @@
 # Data Science portfolio - Luigi Carlucci
-This repository contains my Data Science portfolio, including a collection of statistics, machine learning and deep learning projects.  A list of my skills and certificates related to Data Science is also reported.
+This repository contains my Data Science portfolio, including a collection of statistics, Machine Learning and Deep Learning projects. A list of my skills and certifications related to Data Science is also reported.
+
+---
+
+## Contacts
+
+- **Email**: [luigi.carlucci94@gmail.com](luigi.carlucci94@gmail.com)
+- **LinkedIn**: [linkedin.com/in/luigi-carlucci](https://www.linkedin.com/in/luigi-carlucci/)
 
 ---
 
@@ -59,10 +66,26 @@ This repository contains an **inferential statistics** project in R with the goa
 **[Exploratory Data Analysis of the Texas Real Estate Market](https://github.com/lgucrl/real-estate-exploratory-data-analysis)**  
 This project carries out an **exploratory data analysis (EDA)** of the Texas residential real estate market using R (including **dplyr**, **ggplot2**, and **moments** libraries). The goal is to apply descriptive statistics and data-visualization techniques to understand how sales activity and prices evolve across cities, months, and years.
 
+
 ---
 
 ## Skills
 
 - **Methodologies**: Machine Learning, Deep Learning, descriptive and inferential statistics, Natural Language Processing, computer vision, Big Data analysis, database management, data visualization.
-- **Languages and Tools**: Python (Pandas, Numpy, Scipy, Scikit-Learn, TensorFlow/Keras, OpenCV, Gensim, spaCy, Matplotlib, Seaborn), R (dplyr, ggplot2, plotly), Spark (PySpark), SQL (MySQL), Tableau.
+- **Languages and Tools**: Python (Pandas, Numpy, Scipy, Scikit-Learn, TensorFlow/Keras, Gensim, spaCy, OpenCV, Matplotlib, Seaborn), R (dplyr, ggplot2, plotly), Spark (PySpark), SQL (MySQL), Tableau.
 
+---
+
+## Certifications
+
+- [Programming with Python (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-programmazione-con-python-630f72cc69cfc2ed210361eb.pdf)
+- [Descriptive statistics (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-statistica-descrittiva-631320bbecb4c22bc40ab90f.pdf)
+- [Inferential statistics (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-statistica-inferenziale-631320e6a0c03e0f320d842c.pdf)
+- [Machine Learning fundamentals (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-fondamenti-di-machine-learning-631321aef176ab2d9e012bca.pdf)
+- [Machine Learning: models and algorithms (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-machine-learning-modelli-e-algoritmi-64a3106f74870daf6f046d8b.pdf)
+- [Machine Learning: advanced methods (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-machine-learning-tecniche-avanzate-64819811e8402e9c5205f3ad.pdf)
+- [Deep Learning and Artificial Neural Networks (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-deep-learning-e-reti-neurali-artificiali-63adc0e9fac6e7670d0ac998.pdf)
+- [Natural Language Processing (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-natural-language-processing-6313218186e682b6760f4eef.pdf)
+- [SQL (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-sql-6313210b8bb61c234a08dcb8.pdf)
+- [Big Data (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/certificate-big-data-63f32b424807d3b0a10e0bb0.pdf)
+- [Data Visualization techniques (ProfessionAI)](https://github.com/lgucrl/portfolio-luigi-carlucci/blob/main/certifications/luigi-carlucci_691373393ba5d378072fbcf8.pdf)
