@@ -63,7 +63,7 @@ This repository contains an **inferential statistics** project in R with the goa
 
 <img align="left" width="240" height="160" src="https://github.com/lgucrl/real-estate-exploratory-data-analysis/blob/main/images/thumbnail_real_estate_EDA.jpg"> 
 
-**[Exploratory Data Analysis of the Texas Real Estate Market](https://github.com/lgucrl/real-estate-exploratory-data-analysis)**  
+**[Exploratory Data Analysis of the Texas Real Estate market](https://github.com/lgucrl/real-estate-exploratory-data-analysis)**  
 This project carries out an **exploratory data analysis (EDA)** of the Texas residential real estate market using R (including **dplyr**, **ggplot2**, and **moments** libraries). The goal is to apply descriptive statistics and data-visualization techniques to understand how sales activity and prices evolve across cities, months, and years.
 
 
