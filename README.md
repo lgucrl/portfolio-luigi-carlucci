@@ -1,5 +1,5 @@
 # Data Science portfolio - Luigi Carlucci
-This repository contains my Data Science portfolio, including a collection of statistics, machine learning and deep learning projects. The repository also report a list of my skills and certificates related to Data Science.
+This repository contains my Data Science portfolio, including a collection of statistics, machine learning and deep learning projects.  A list of my skills and certificates related to Data Science is also reported.
 
 ---
 
@@ -60,3 +60,9 @@ This repository contains an **inferential statistics** project in R with the goa
 This project carries out an **exploratory data analysis (EDA)** of the Texas residential real estate market using R (including **dplyr**, **ggplot2**, and **moments** libraries). The goal is to apply descriptive statistics and data-visualization techniques to understand how sales activity and prices evolve across cities, months, and years.
 
 ---
+
+## Skills
+
+- **Methodologies**: Machine Learning, Deep Learning, descriptive and inferential statistics, Natural Language Processing, computer vision, Big Data analysis, database management, data visualization.
+- **Languages and Tools**: Python (Pandas, Numpy, Scipy, Scikit-Learn, TensorFlow/Keras, OpenCV, Gensim, spaCy, Matplotlib, Seaborn), R (dplyr, ggplot2, plotly), Spark (PySpark), SQL (MySQL), Tableau.
+
