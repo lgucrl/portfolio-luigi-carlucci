@@ -47,10 +47,14 @@ This project builds a supervised **binary classification** model in Python that 
 
 #
 
+<img align="left" width="240" height="160" src="https://github.com/lgucrl/newborn-statistical-inference-analysis/blob/main/images/thumbnail_newborn_inference.jpg"> 
+
 **[Statistical Inference Analysis to predict newborn weight](https://github.com/lgucrl/newborn-statistical-inference-analysis)**  
 This repository contains an **inferential statistics** project in R with the goal of building, validating, and interpreting a statistical model capable of **predicting newborn weight** from collected clinical variables, such as maternal, pregnancy, and newborn measurements. The analysis combines classical hypothesis testing with multiple linear regression, model selection, diagnostics, and scenario-based prediction.
 
 #
+
+<img align="left" width="240" height="160" src="https://github.com/lgucrl/real-estate-exploratory-data-analysis/blob/main/images/thumbnail_real_estate_EDA.jpg"> 
 
 **[Exploratory Data Analysis of the Texas Real Estate Market](https://github.com/lgucrl/real-estate-exploratory-data-analysis)**  
 This project carries out an **exploratory data analysis (EDA)** of the Texas residential real estate market using R (including **dplyr**, **ggplot2**, and **moments** libraries). The goal is to apply descriptive statistics and data-visualization techniques to understand how sales activity and prices evolve across cities, months, and years.
