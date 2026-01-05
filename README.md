@@ -54,6 +54,13 @@ This project builds a supervised **binary classification** model in Python that 
 
 #
 
+<img align="left" width="240" height="160" src="https://github.com/lgucrl/sql-bank-customer-feature-engineering/blob/main/images/thumbnail_bank_customers.png"> 
+
+**[Feature Engineering of a bank's customers with MySQL](https://github.com/lgucrl/sql-bank-customer-feature-engineering)**  
+This project builds a **single, denormalized dataset** of a bank's customers from a relational banking database using **MySQL**. The goal is to obtain behavioral and financial activity indicators (features) from multiple tables including data on customers, their accounts, and their transactions. The resulting output can be used for advanced data analytics and machine learning tasks.
+
+#
+
 <img align="left" width="240" height="160" src="https://github.com/lgucrl/newborn-statistical-inference-analysis/blob/main/images/thumbnail_newborn_inference.jpg"> 
 
 **[Statistical Inference Analysis to predict newborn weight](https://github.com/lgucrl/newborn-statistical-inference-analysis)**  
